@@ -1,6 +1,6 @@
 <!-- ============================================================
      GITHUB PROFILE README
-     Replace every "your-username" and social link placeholder
+     Replace every "Rithik-HyperLoop69" and social link placeholder
      with your real handles before publishing.
      ============================================================ -->
 
