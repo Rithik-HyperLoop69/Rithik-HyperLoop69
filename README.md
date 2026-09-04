@@ -41,9 +41,9 @@
 <img src="assets/achievements.svg" alt="Achievement grid: 7 of 9 unlocked, final boss locked" width="100%"/>
 </div>
 
-<details>
-<summary><b>LIVE TELEMETRY</b> — real-time cards from the GitHub API</summary>
-<br>
+---
+
+## 🛰️ LIVE TELEMETRY — REAL TIME CARDS
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats.shion.dev/api?username=Rithik-HyperLoop69&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
@@ -52,7 +52,7 @@
 <img width="100%" src="https://streak-stats.demolab.com/?user=Rithik-HyperLoop69&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 </div>
-</details>
+
 
 ---
 
