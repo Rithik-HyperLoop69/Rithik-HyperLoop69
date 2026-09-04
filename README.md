@@ -94,11 +94,31 @@
 
 <br>
 
-## 🔝 Top Contributed Repo
+## 🔝 Featured Project
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=Rithik-HyperLoop69&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Student_Management_System-using-Data-Structure;Built+with+C%2B%2B+%26+Optimized+Data+Structures;Check+out+the+repository+below!+%E2%9C%A8" alt="Featured Repo Animated Header" />
+</a>
+
+<br>
+
+<a href="https://github.com/Rithik-HyperLoop69/Student_Management_System-using-Data-Structure">
+  <img height="175em" src="https://github-readme-stats.shion.dev/api/pin/?username=Rithik-HyperLoop69&repo=Student_Management_System-using-Data-Structure&theme=tokyonight&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&show_owner=true" alt="Featured Repository Card" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Rithik-HyperLoop69/Student_Management_System-using-Data-Structure/stargazers">
+  <img src="https://img.shields.io/github/stars/Rithik-HyperLoop69/Student_Management_System-using-Data-Structure?style=for-the-badge&logo=github&color=8A2BE2&labelColor=1F1F2E" alt="Stars" />
+</a>
+<a href="https://github.com/Rithik-HyperLoop69/Student_Management_System-using-Data-Structure/network/members">
+  <img src="https://img.shields.io/github/forks/Rithik-HyperLoop69/Student_Management_System-using-Data-Structure?style=for-the-badge&logo=github&color=A78BFA&labelColor=1F1F2E" alt="Forks" />
+</a>
+<a href="https://github.com/Rithik-HyperLoop69/Student_Management_System-using-Data-Structure/commit/main">
+  <img src="https://img.shields.io/github/last-commit/Rithik-HyperLoop69/Student_Management_System-using-Data-Structure?style=for-the-badge&logo=git&color=302B63&labelColor=1F1F2E" alt="Last Commit" />
+</a>
 
 </div>
 
