@@ -19,11 +19,9 @@
 
 ## ⌁ PLAYER FILE
 
-> **HANDLE** RITHIK &nbsp;•&nbsp; **CLASS** Frontend Mage, multiclassing into AI/ML
-> **CURRENT QUEST** clean, original, glassmorphic UI under the RITHIK.DEV banner
-> **CO-OP** open to frontend collabs that care about detail &nbsp;•&nbsp; need a raid party for backend bosses (auth, databases)
-> **GRIND QUEUE** algorithm design & data structures + circuit analysis (node voltage, Thévenin equivalents)
-> **PLAYSTYLE** trace the signal → find the break → fix the loop. same on circuits, same on code.
+<div align="center">
+<img src="assets/playerfile.svg" alt="Imperial dossier: handle Rithik, class Frontend Sith, quest, co-op, grind, playstyle" width="100%"/>
+</div>
 
 ---
 
