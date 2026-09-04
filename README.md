@@ -7,12 +7,12 @@
 <div align="center">
 
 <!-- Animated typing intro -->
-<a href="https://github.com/your-username">
+<a href="https://github.com/Rithik-HyperLoop69">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rithik+%F0%9F%91%8B;Computer+Science+%26+Engineering+Student;Frontend+Developer+%40+RITHIK.DEV;Building+clean%2C+functional+web+experiences" alt="Typing SVG" />
 </a>
 
 <!-- Profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Rithik-HyperLoop69&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
 
 </div>
 
@@ -52,10 +52,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rithik-HyperLoop69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithik-HyperLoop69&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithik-HyperLoop69&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rithik-HyperLoop69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
 
 </div>
 
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithik-HyperLoop69&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -96,7 +96,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rithik-HyperLoop69/Rithik-HyperLoop69/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
