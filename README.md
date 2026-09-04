@@ -100,7 +100,7 @@
 <div align="center">
 
 ### [Student_Management_System-using-Data-Structure](https://github.com/Rithik-HyperLoop69/Student_Management_System-using-Data-Structure)
-*built with C++ & optimized data structures*
+*Built with RAW C & optimized data structures*
 
 <a href="https://github.com/Rithik-HyperLoop69/Student_Management_System-using-Data-Structure">
   <img height="175em" src="https://github-readme-stats.shion.dev/api/pin/?username=Rithik-HyperLoop69&repo=Student_Management_System-using-Data-Structure&theme=tokyonight&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&show_owner=true" alt="Featured repository card" />
